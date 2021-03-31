@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: linear-gradient(315deg, #29041e 0%, #3b0fa3 90%);
+  background-color: grey;
   color: rgb(255, 187, 0);
   font-family: "EB Garamond", sans-serif;
   min-height: 100vh;
@@ -38,7 +38,7 @@ form button {
   transition: all 0.3s ease;
 }
 form button:hover {
-  background: #3b0fa3;
+  background: gold;
   color: white;
 }
 
